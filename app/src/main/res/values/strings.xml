@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RuntimePermissions</string>
+    <string name="need_permission">Need Permission</string>
+    <string name="permissions_message"> Go to Settings > Apps, tap on Pando, then tap on Permissions and toggle Permissions ON</string>
+    <string name="allow">Allow</string>
+
+</resources>
